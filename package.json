@@ -15,5 +15,10 @@
     "postcss": "8.4.24",
     "autoprefixer": "10.4.15",
     "nodemailer": "6.9.13"
+  },
+  "devDependencies": {
+    "typescript": "5.4.5",
+    "@types/react": "18.2.46",
+    "@types/node": "20.11.30"
   }
 }
